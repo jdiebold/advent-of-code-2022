@@ -1,4 +1,4 @@
-use std::{fs, num};
+use std::fs;
 
 use regex::Regex;
 
